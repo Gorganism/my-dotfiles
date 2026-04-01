@@ -1,0 +1,13 @@
+resize_algorithm = none
+hotspot_x = 0.19
+hotspot_y = 0.19
+
+define_size = 32, dnd-move_000.png, 116
+define_size = 32, dnd-move_001.png, 116
+define_size = 32, dnd-move_002.png, 116
+define_size = 32, dnd-move_003.png, 116
+define_size = 32, dnd-move_004.png, 116
+define_size = 32, dnd-move_005.png, 116
+define_size = 32, dnd-move_006.png, 116
+define_size = 32, dnd-move_007.png, 116
+

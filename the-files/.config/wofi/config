@@ -1,0 +1,10 @@
+height=400
+width=600
+term=kitty
+location=bottom
+y=-150
+insensitive=true
+allow_images=true
+image_size=18
+key_expand=Alt_L
+prompt=search apps in (/usr or ~/.local)/share/applications/...

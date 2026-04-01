@@ -1,0 +1,27 @@
+resize_algorithm = none
+hotspot_x = 0.00
+hotspot_y = 0.00
+
+define_size = 32, question_arrow_000.png, 1800
+define_size = 32, question_arrow_001.png, 83
+define_size = 32, question_arrow_002.png, 83
+define_size = 32, question_arrow_003.png, 83
+define_size = 32, question_arrow_004.png, 83
+define_size = 32, question_arrow_005.png, 83
+define_size = 32, question_arrow_006.png, 83
+define_size = 32, question_arrow_007.png, 83
+define_size = 32, question_arrow_008.png, 83
+define_size = 32, question_arrow_009.png, 83
+define_size = 32, question_arrow_010.png, 83
+define_size = 32, question_arrow_011.png, 1200
+define_size = 32, question_arrow_012.png, 116
+define_size = 32, question_arrow_013.png, 116
+define_size = 32, question_arrow_014.png, 116
+define_size = 32, question_arrow_015.png, 116
+define_size = 32, question_arrow_016.png, 116
+define_size = 32, question_arrow_017.png, 116
+define_size = 32, question_arrow_018.png, 116
+define_size = 32, question_arrow_019.png, 116
+define_size = 32, question_arrow_020.png, 116
+define_size = 32, question_arrow_021.png, 116
+

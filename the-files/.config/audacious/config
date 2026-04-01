@@ -1,0 +1,27 @@
+
+[audacious]
+generic_title_format=${title}${?artist: - ${artist}}
+
+[audgui]
+filesel_path=/home/gorganism
+
+[audqt]
+theme=dark
+
+[pipewire]
+volume_left=59
+volume_right=59
+
+[qtui]
+player_height=1026
+player_width=1035
+
+[skins]
+equalizer_x=3413
+equalizer_y=161
+player_x=1599
+player_y=161
+playlist_visible=TRUE
+playlist_x=1599
+playlist_y=277
+skin=/usr/share/audacious/Skins/Greysfull.wsz

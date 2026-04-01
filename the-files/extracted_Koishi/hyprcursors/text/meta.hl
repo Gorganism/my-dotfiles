@@ -1,0 +1,28 @@
+resize_algorithm = none
+hotspot_x = 0.09
+hotspot_y = 0.25
+
+define_size = 32, text_000.png, 1800
+define_size = 32, text_001.png, 116
+define_size = 32, text_002.png, 116
+define_size = 32, text_003.png, 116
+define_size = 32, text_004.png, 116
+define_size = 32, text_005.png, 116
+define_size = 32, text_006.png, 1800
+define_size = 32, text_007.png, 116
+define_size = 32, text_008.png, 116
+define_size = 32, text_009.png, 116
+define_size = 32, text_010.png, 116
+define_size = 32, text_011.png, 116
+define_size = 32, text_012.png, 800
+define_size = 32, text_013.png, 183
+define_size = 32, text_014.png, 183
+define_size = 32, text_015.png, 183
+define_size = 32, text_016.png, 183
+define_size = 32, text_017.png, 1500
+define_size = 32, text_018.png, 116
+define_size = 32, text_019.png, 116
+define_size = 32, text_020.png, 116
+define_size = 32, text_021.png, 116
+define_size = 32, text_022.png, 116
+

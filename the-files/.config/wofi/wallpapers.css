@@ -1,0 +1,49 @@
+* {
+	font-family: "Iosevka Nerd Font Mono", monospace;
+}
+
+window {
+	background-color: #11111b;
+	background-image: linear-gradient(#585b70, #f5c2e7);
+}
+
+#input {
+	margin: 5px;
+	border-radius: 0px;
+	border: none;
+	background-color: #1e1e2e;
+	color: #cdd6f4;
+}
+
+#inner-box {
+	background-color: #1e1e2e;
+}
+
+#outer-box {
+	margin: 2px;
+	padding: 10px;
+	background-color: #181825;
+}
+
+#scroll {
+	margin: 5px;
+}
+
+#text {
+	padding: 4px;
+	color: #cdd6f4;
+}
+
+#entry:nth-child(even){
+	background-color: #181825;
+}
+
+#entry:selected {
+	background-color: #45475a;
+}
+
+#text:selected {
+	background: transparent;
+	color: #cdd6f4;
+}
+

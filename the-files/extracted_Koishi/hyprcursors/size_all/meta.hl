@@ -1,0 +1,13 @@
+resize_algorithm = none
+hotspot_x = 0.19
+hotspot_y = 0.19
+
+define_size = 32, size_all_000.png, 116
+define_size = 32, size_all_001.png, 116
+define_size = 32, size_all_002.png, 116
+define_size = 32, size_all_003.png, 116
+define_size = 32, size_all_004.png, 116
+define_size = 32, size_all_005.png, 116
+define_size = 32, size_all_006.png, 116
+define_size = 32, size_all_007.png, 116
+

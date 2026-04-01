@@ -1,0 +1,28 @@
+resize_algorithm = none
+hotspot_x = 0.09
+hotspot_y = 0.25
+
+define_size = 32, xterm_000.png, 1800
+define_size = 32, xterm_001.png, 116
+define_size = 32, xterm_002.png, 116
+define_size = 32, xterm_003.png, 116
+define_size = 32, xterm_004.png, 116
+define_size = 32, xterm_005.png, 116
+define_size = 32, xterm_006.png, 1800
+define_size = 32, xterm_007.png, 116
+define_size = 32, xterm_008.png, 116
+define_size = 32, xterm_009.png, 116
+define_size = 32, xterm_010.png, 116
+define_size = 32, xterm_011.png, 116
+define_size = 32, xterm_012.png, 800
+define_size = 32, xterm_013.png, 183
+define_size = 32, xterm_014.png, 183
+define_size = 32, xterm_015.png, 183
+define_size = 32, xterm_016.png, 183
+define_size = 32, xterm_017.png, 1500
+define_size = 32, xterm_018.png, 116
+define_size = 32, xterm_019.png, 116
+define_size = 32, xterm_020.png, 116
+define_size = 32, xterm_021.png, 116
+define_size = 32, xterm_022.png, 116
+

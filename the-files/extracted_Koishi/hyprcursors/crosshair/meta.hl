@@ -1,0 +1,33 @@
+resize_algorithm = none
+hotspot_x = 0.16
+hotspot_y = 0.16
+
+define_size = 32, crosshair_000.png, 1800
+define_size = 32, crosshair_001.png, 116
+define_size = 32, crosshair_002.png, 116
+define_size = 32, crosshair_003.png, 600
+define_size = 32, crosshair_004.png, 116
+define_size = 32, crosshair_005.png, 116
+define_size = 32, crosshair_006.png, 500
+define_size = 32, crosshair_007.png, 100
+define_size = 32, crosshair_008.png, 100
+define_size = 32, crosshair_009.png, 100
+define_size = 32, crosshair_010.png, 300
+define_size = 32, crosshair_011.png, 100
+define_size = 32, crosshair_012.png, 100
+define_size = 32, crosshair_013.png, 100
+define_size = 32, crosshair_014.png, 300
+define_size = 32, crosshair_015.png, 100
+define_size = 32, crosshair_016.png, 100
+define_size = 32, crosshair_017.png, 100
+define_size = 32, crosshair_018.png, 1800
+define_size = 32, crosshair_019.png, 100
+define_size = 32, crosshair_020.png, 100
+define_size = 32, crosshair_021.png, 100
+define_size = 32, crosshair_022.png, 100
+define_size = 32, crosshair_023.png, 500
+define_size = 32, crosshair_024.png, 100
+define_size = 32, crosshair_025.png, 100
+define_size = 32, crosshair_026.png, 100
+define_size = 32, crosshair_027.png, 100
+

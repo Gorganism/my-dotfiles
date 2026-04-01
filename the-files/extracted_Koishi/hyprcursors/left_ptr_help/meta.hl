@@ -1,0 +1,27 @@
+resize_algorithm = none
+hotspot_x = 0.00
+hotspot_y = 0.00
+
+define_size = 32, left_ptr_help_000.png, 1800
+define_size = 32, left_ptr_help_001.png, 83
+define_size = 32, left_ptr_help_002.png, 83
+define_size = 32, left_ptr_help_003.png, 83
+define_size = 32, left_ptr_help_004.png, 83
+define_size = 32, left_ptr_help_005.png, 83
+define_size = 32, left_ptr_help_006.png, 83
+define_size = 32, left_ptr_help_007.png, 83
+define_size = 32, left_ptr_help_008.png, 83
+define_size = 32, left_ptr_help_009.png, 83
+define_size = 32, left_ptr_help_010.png, 83
+define_size = 32, left_ptr_help_011.png, 1200
+define_size = 32, left_ptr_help_012.png, 116
+define_size = 32, left_ptr_help_013.png, 116
+define_size = 32, left_ptr_help_014.png, 116
+define_size = 32, left_ptr_help_015.png, 116
+define_size = 32, left_ptr_help_016.png, 116
+define_size = 32, left_ptr_help_017.png, 116
+define_size = 32, left_ptr_help_018.png, 116
+define_size = 32, left_ptr_help_019.png, 116
+define_size = 32, left_ptr_help_020.png, 116
+define_size = 32, left_ptr_help_021.png, 116
+

@@ -1,0 +1,11 @@
+resize_algorithm = none
+hotspot_x = 0.00
+hotspot_y = 0.00
+
+define_size = 32, wait_000.png, 233
+define_size = 32, wait_001.png, 233
+define_size = 32, wait_002.png, 233
+define_size = 32, wait_003.png, 233
+define_size = 32, wait_004.png, 233
+define_size = 32, wait_005.png, 233
+

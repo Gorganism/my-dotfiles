@@ -1,0 +1,27 @@
+resize_algorithm = none
+hotspot_x = 0.12
+hotspot_y = 0.00
+
+define_size = 32, bottom_right_corner_000.png, 1800
+define_size = 32, bottom_right_corner_001.png, 116
+define_size = 32, bottom_right_corner_002.png, 116
+define_size = 32, bottom_right_corner_003.png, 116
+define_size = 32, bottom_right_corner_004.png, 116
+define_size = 32, bottom_right_corner_005.png, 116
+define_size = 32, bottom_right_corner_006.png, 1800
+define_size = 32, bottom_right_corner_007.png, 116
+define_size = 32, bottom_right_corner_008.png, 116
+define_size = 32, bottom_right_corner_009.png, 116
+define_size = 32, bottom_right_corner_010.png, 116
+define_size = 32, bottom_right_corner_011.png, 116
+define_size = 32, bottom_right_corner_012.png, 1800
+define_size = 32, bottom_right_corner_013.png, 33
+define_size = 32, bottom_right_corner_014.png, 33
+define_size = 32, bottom_right_corner_015.png, 50
+define_size = 32, bottom_right_corner_016.png, 50
+define_size = 32, bottom_right_corner_017.png, 116
+define_size = 32, bottom_right_corner_018.png, 33
+define_size = 32, bottom_right_corner_019.png, 33
+define_size = 32, bottom_right_corner_020.png, 50
+define_size = 32, bottom_right_corner_021.png, 50
+

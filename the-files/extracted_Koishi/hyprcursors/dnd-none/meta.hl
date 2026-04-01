@@ -1,0 +1,13 @@
+resize_algorithm = none
+hotspot_x = 0.19
+hotspot_y = 0.19
+
+define_size = 32, dnd-none_000.png, 116
+define_size = 32, dnd-none_001.png, 116
+define_size = 32, dnd-none_002.png, 116
+define_size = 32, dnd-none_003.png, 116
+define_size = 32, dnd-none_004.png, 116
+define_size = 32, dnd-none_005.png, 116
+define_size = 32, dnd-none_006.png, 116
+define_size = 32, dnd-none_007.png, 116
+

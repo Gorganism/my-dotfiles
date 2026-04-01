@@ -1,0 +1,13 @@
+resize_algorithm = none
+hotspot_x = 0.19
+hotspot_y = 0.19
+
+define_size = 32, all-scroll_000.png, 116
+define_size = 32, all-scroll_001.png, 116
+define_size = 32, all-scroll_002.png, 116
+define_size = 32, all-scroll_003.png, 116
+define_size = 32, all-scroll_004.png, 116
+define_size = 32, all-scroll_005.png, 116
+define_size = 32, all-scroll_006.png, 116
+define_size = 32, all-scroll_007.png, 116
+

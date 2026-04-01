@@ -1,0 +1,28 @@
+resize_algorithm = none
+hotspot_x = 0.09
+hotspot_y = 0.25
+
+define_size = 32, ibeam_000.png, 1800
+define_size = 32, ibeam_001.png, 116
+define_size = 32, ibeam_002.png, 116
+define_size = 32, ibeam_003.png, 116
+define_size = 32, ibeam_004.png, 116
+define_size = 32, ibeam_005.png, 116
+define_size = 32, ibeam_006.png, 1800
+define_size = 32, ibeam_007.png, 116
+define_size = 32, ibeam_008.png, 116
+define_size = 32, ibeam_009.png, 116
+define_size = 32, ibeam_010.png, 116
+define_size = 32, ibeam_011.png, 116
+define_size = 32, ibeam_012.png, 800
+define_size = 32, ibeam_013.png, 183
+define_size = 32, ibeam_014.png, 183
+define_size = 32, ibeam_015.png, 183
+define_size = 32, ibeam_016.png, 183
+define_size = 32, ibeam_017.png, 1500
+define_size = 32, ibeam_018.png, 116
+define_size = 32, ibeam_019.png, 116
+define_size = 32, ibeam_020.png, 116
+define_size = 32, ibeam_021.png, 116
+define_size = 32, ibeam_022.png, 116
+

@@ -1,0 +1,58 @@
+@import url("https://catppuccin.github.io/discord/dist/catppuccin-mocha.theme.css");
+@import url("https://catppuccin.github.io/discord/dist/catppuccin-mocha-flamingo.theme.css");
+
+// compact tabs for stuff at the top of servers
+@import url('https://raw.githubusercontent.com/Krammeth/css-snippets/refs/heads/main/CompactTabs.css');
+:root {
+  --server-tabs: true;
+  --dms-tabs: true;
+}
+
+
+// roles on user profiles fix
+.vc-permviewer-role-button { padding: 2px }
+
+[class^=roleTag] > [class^=role] {
+    border-radius: var(--radius-sm);
+    gap: 4px;
+    padding: 0 4px;
+    > [class^=roleCircle] { margin: unset; }
+    > span > [class^=roleIcon] {
+        height: 16px;
+        width: 16px;
+        margin-inline-start: unset;
+        vertical-align: top;
+        content: var(--role-icon-url-128);
+    }
+    > [class^=removeButton] {
+        position: absolute;
+        height: 12px;
+        width: 12px;
+        opacity: 0;
+        &:hover { opacity: 1; }
+    }
+}
+
+// unobtrusive disconnection notice
+.container_a2f514 {
+    background: #00000080;
+    bottom: unset;
+    left: unset;
+    right: 20px;
+    top: 20px !important;
+    height: 110px;
+    width: 250px;
+    border-radius: 8px;
+    border-top: 5px solid;
+    border-top-color: white;
+    transition: border-top-color 1s;
+    &:has(> .slideIn_a2f514) {border-top-color: #df3d40;}
+}
+.spinner_a2f514 {display: none;}
+.problems_a2f514 {padding-bottom: 10px;}
+
+
+
+
+
+// @import url("https://raw.githubusercontent.com/orblazer/discord-nordic/master/nordic.vencord.css");
