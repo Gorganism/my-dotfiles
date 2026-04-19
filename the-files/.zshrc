@@ -35,6 +35,7 @@ autoload -Uz bashcompinit && bashcompinit
 
 PROMPT='%{%F{238}%}''%{%F{248}%K{238}%}'' %{%B%}%T %{%F{238}%K{172}%b%}'' %{%F{223}%}'' %{%B%}%n %{%b%}%# %{%F{172}%K{59}%b%}'' %{%F{253}%}%40<...<%~%<< %{%F{59}%k%}''
 %{%f%k%} %{%B%}>%{%b%} '
+# i *could use the  chevron instead of > for the prompt, but then it would look strange in TTYs.
 
 
 
