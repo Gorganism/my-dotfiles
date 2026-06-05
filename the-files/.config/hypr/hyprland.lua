@@ -191,7 +191,7 @@ hl.curve("overshot", { type = "bezier", points = { {0.22, 0.99}, {0.23, 1.03} } 
 hl.animation({ leaf = "global", enabled = true, speed = 10, bezier = "default" })
 hl.animation({ leaf = "border", enabled = true, speed = 5.39, bezier = "easeOutQuint" })
 hl.animation({ leaf = "windows", enabled = true, speed = 4.79, bezier = "easeOutQuint" })
-hl.animation({ leaf = "windowsIn", enabled = true, speed = 4.2, bezier = "easeOutQuint", style = "popin 87%" })
+hl.animation({ leaf = "windowsIn", enabled = true, speed = 4.2, bezier = "easeOutQuint", style = "popin 89%" })
 hl.animation({ leaf = "windowsOut", enabled = true, speed = 1.69, bezier = "linear", style = "popin 87%" })
 hl.animation({ leaf = "fadeIn", enabled = true, speed = 1.78, bezier = "almostLinear" })
 hl.animation({ leaf = "fadeOut", enabled = true, speed = 1.53, bezier = "almostLinear" })
@@ -355,7 +355,7 @@ hl.bind("SUPER" .. " + ALT + down", hl.dsp.window.move({ direction = "down" }))
 hl.bind("SUPER" .. " + Grave", hl.dsp.window.cycle_next({ true }))
 hl.bind("SUPER" .. " + SHIFT + Grave", hl.dsp.window.cycle_next({ false }))
 hl.bind("SUPER" .. " + ALT + Grave", hl.dsp.window.swap({ direction = "right" })) -- unsure if this works.
-hl.bind("SUPER" .. " + SHIFT + Grave", hl.dsp.window.swap({ direction = "left" })) -- unsure if this works either
+hl.bind("SUPER" .. " + ALT + SHIFT + Grave", hl.dsp.window.swap({ direction = "left" })) -- unsure if this works either
 
 hl.bind("SUPER" .. " + CTRL + left", hl.dsp.window.resize({ x = -20, y = 0 }))
 hl.bind("SUPER" .. " + CTRL + right", hl.dsp.window.resize({ x = 20, y = 0 }))
