@@ -174,6 +174,11 @@ hl.config({
     animations = {
         enabled = true,
     },
+    
+    ecosystem = {
+        no_donation_nag = true,
+        no_update_news = true,
+    },
 })
 -- https://wiki.hyprland.org/Configuring/Variables/#animations
 
@@ -339,6 +344,13 @@ hl.layer_rule {
     match = { namespace = 'selection' },
     no_anim = true,
 }
+-- old, convert later:
+-- removes cursor from screenshot selection box:
+-- cursor {
+--     no_hardware_cursors = false
+--     -- alternatively, use:
+--     -- hide_on_key_press = true
+-- }
 
 -- Move focus with mainMod + arrow keys
 
@@ -357,10 +369,10 @@ hl.bind("SUPER" .. " + SHIFT + Grave", hl.dsp.window.cycle_next({ false }))
 hl.bind("SUPER" .. " + ALT + Grave", hl.dsp.window.swap({ direction = "right" })) -- unsure if this works.
 hl.bind("SUPER" .. " + ALT + SHIFT + Grave", hl.dsp.window.swap({ direction = "left" })) -- unsure if this works either
 
-hl.bind("SUPER" .. " + CTRL + left", hl.dsp.window.resize({ x = -20, y = 0 }))
-hl.bind("SUPER" .. " + CTRL + right", hl.dsp.window.resize({ x = 20, y = 0 }))
-hl.bind("SUPER" .. " + CTRL + up", hl.dsp.window.resize({ x = 0, y = -20 }))
-hl.bind("SUPER" .. " + CTRL + down", hl.dsp.window.resize({ x = 0, y = 20 }))
+hl.bind("SUPER" .. " + CTRL + left", hl.dsp.window.resize({ x = -20, y = 0, relative = true }))
+hl.bind("SUPER" .. " + CTRL + right", hl.dsp.window.resize({ x = 20, y = 0, relative = true }))
+hl.bind("SUPER" .. " + CTRL + up", hl.dsp.window.resize({ x = 0, y = -20, relative = true }))
+hl.bind("SUPER" .. " + CTRL + down", hl.dsp.window.resize({ x = 0, y = 20, relative = true }))
 
 -- Switch workspaces with mainMod + [0-9]
 -- Move active window to a workspace with mainMod + SHIFT + [0-9]
