@@ -1,0 +1,10 @@
+[Desktop Entry]
+Name=reimu-marisa wallpaper
+Exec=/home/gorganism/.config/hypr/wall-switch-reimu-marisa.sh
+# Exec=hyprctl hyprpaper reload , /home/gorganism/.config/hypr/reimu-marisa.png
+
+Type=Application
+Icon=kitty
+Categories=Network;
+Keywords=wallpaper;reimu;marisa;hyprland;custom;
+Comment=hyprctl hyprpaper reload , /home/gorganism/.config/hypr/reimu-marisa.png

@@ -1,0 +1,10 @@
+[Desktop Entry]
+Name=koishi wallpaper
+Exec=/home/gorganism/.config/hypr/wall-switch-koishi.sh
+# Exec=hyprctl hyprpaper reload , /home/gorganism/.config/hypr/koishi.jpg
+
+Type=Application
+Icon=kitty
+Categories=Network;
+Keywords=wallpaper;koishi;hyprland;custom;
+Comment=hyprctl hyprpaper reload , /home/gorganism/.config/hypr/koishi.jpg

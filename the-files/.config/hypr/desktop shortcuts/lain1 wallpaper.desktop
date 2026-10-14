@@ -1,0 +1,10 @@
+[Desktop Entry]
+Name=lain1 wallpaper
+Exec=/home/gorganism/.config/hypr/wall-switch-lain1.sh
+# Exec=hyprctl hyprpaper reload , /home/gorganism/.config/hypr/koishi.jpg
+
+Type=Application
+Icon=kitty
+Categories=Network;
+Keywords=wallpaper;serial;experiments;lain;hyprland;custom;
+Comment=hyprctl hyprpaper reload , /home/gorganism/.config/hypr/serial-experiments-lain-safebooru-46.jpg

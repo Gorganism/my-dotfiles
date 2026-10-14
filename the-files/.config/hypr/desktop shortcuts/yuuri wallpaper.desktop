@@ -1,0 +1,10 @@
+[Desktop Entry]
+Name=yuuri wallpaper
+Exec=/home/gorganism/.config/hypr/wall-switch-yuuri.sh
+# Exec=hyprctl hyprpaper reload , /home/gorganism/.config/hypr/yuuri.jpg
+
+Type=Application
+Icon=kitty
+Categories=Network;
+Keywords=wallpaper;yuuri;hyprland;custom;
+Comment=hyprctl hyprpaper reload , /home/gorganism/.config/hypr/yuuri.jpg
