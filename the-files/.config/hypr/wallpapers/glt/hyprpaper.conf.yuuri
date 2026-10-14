@@ -1,0 +1,6 @@
+wallpaper {
+    monitor = 
+    path = /home/gorganism/.config/hypr/wallpapers/glt/yuuri.jpg
+    fit_mode = cover
+}
+splash = false

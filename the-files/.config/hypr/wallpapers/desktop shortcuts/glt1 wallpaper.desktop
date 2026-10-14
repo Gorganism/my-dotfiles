@@ -1,0 +1,10 @@
+[Desktop Entry]
+Name=glt1 wallpaper
+Exec=/home/gorganism/.config/hypr/wallpapers/glt/wall-switch-glt1.sh
+# Exec=hyprctl hyprpaper reload , /home/gorganism/.config/hypr/koishi.jpg
+
+Type=Application
+Icon=kitty
+Categories=Network;
+Keywords=wallpaper;glt;hyprland;custom;
+Comment=hyprctl hyprpaper reload , /home/gorganism/.config/hypr/glt1.png

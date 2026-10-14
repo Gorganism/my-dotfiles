@@ -1,0 +1,11 @@
+[Desktop Entry]
+Name=neuro wallpaper
+Exec=/home/gorganism/.config/hypr/wallpapers/neuro/wall-switch-neuro.sh
+# Exec=hyprctl hyprpaper reload , /home/gorganism/.config/hypr/neurojetdark.jpg 
+# ; cp /home/gorganism/.config/hypr/hyprpaper.conf.neuro /home/gorganism/.config/hypr/hyprpaper.conf
+
+Type=Application
+Icon=kitty
+Categories=Network;
+Keywords=wallpaper;neuro;hyprland;custom;
+Comment=hyprpaper neurojetdark.jpg

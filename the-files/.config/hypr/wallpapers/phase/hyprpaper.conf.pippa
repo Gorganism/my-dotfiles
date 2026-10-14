@@ -1,0 +1,6 @@
+wallpaper {
+    monitor = 
+    path = /home/gorganism/.config/hypr/wallpapers/phase/pipkin-and-mari-train.jpg
+    fit_mode = cover
+}
+splash = false

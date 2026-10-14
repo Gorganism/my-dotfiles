@@ -1,9 +1,0 @@
-# pre 0.53:
-# reload = , /home/gorganism/.config/hypr/koishi.jpg
-# post 0.53:
-wallpaper {
-    monitor = 
-    path = /home/gorganism/.config/hypr/serial-experiments-lain-safebooru-46.jpg
-    fit_mode = cover
-}
-splash = false

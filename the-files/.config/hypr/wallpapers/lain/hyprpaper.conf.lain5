@@ -1,0 +1,6 @@
+wallpaper {
+    monitor = 
+    path = /home/gorganism/.config/hypr/wallpapers/lain/serial-experiments-lain-safebooru-95.jpg
+    fit_mode = cover
+}
+splash = false
